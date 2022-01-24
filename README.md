@@ -1,2 +1,2 @@
-# -Restaurant-Management-System-using-SQL-and-react
+# Restaurant-Management-System-using-SQL-and-reactJS
 Developed a system with database in SQL and frontend and backend handled by reactJS. It helps us requests menu items, see the current order list, manage and edit customer records, employees record Menu items. Some additional functionality such as delete and add-new were added and triggers and functions were used in SQL to make the project more error-proof.
