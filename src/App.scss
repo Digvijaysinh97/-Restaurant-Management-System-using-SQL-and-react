@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  .app_img {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+}

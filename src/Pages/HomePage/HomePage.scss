@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.homepage {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+
+  .hp_img {
+    position: absolute;
+    height: 150vh;
+    width: 100vw;
+    z-index: -1;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    img {
+      object-fit: cover;
+      height: 100%;
+      width: 100%;
+    }
+  }
+  .greet_hp {
+    width: 60%;
+    text-align: justify;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+  }
+}
